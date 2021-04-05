@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a computational chemist turned software person from San Antonio, Texas. I am in my final year at the University of Texas, where I will graduate with a Chemistry degree and an Elements of Computing certificate. I love coffee, trivia, and electronic music. I mostly use Python, but I've used all sorts of languages at one point or another through the random computing courses I've taken.
+
+I don't have many projects of my own, but do check out the oddities I have here. Thanks for stopping by!
+
+📫: larenspear@utexas.edu
+
 <!--
 **larenspear/larenspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
