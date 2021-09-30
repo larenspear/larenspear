@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computational chemist turned computer science person from San Antonio, Texas. I'm a first year Master's student in Computer Science at Texas A&M. I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate. I love coffee, trivia, and electronic music. I mostly use Python, but I've used all sorts of languages at one point or another through the random computing courses I've taken.
+I'm Laren, a first year Master's student in Computer Science at Texas A&M. I'm a computational chemist turned computer and data scientist. I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate. I love coffee, trivia, and electronic music. I mostly use Python, but I've used all sorts of languages at one point or another through the random computing courses I've taken.
 
 I don't have many projects of my own, but do check out the oddities I have here. Thanks for stopping by!
 
