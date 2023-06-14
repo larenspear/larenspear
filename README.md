@@ -2,10 +2,10 @@
 
 I'm Laren, a third year Master's student in Computer Science at Texas A&M. I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate. I love coffee, trivia, and electronic music. I mostly use Python, but I've used all sorts of languages at one point or another through the random computing courses I've taken. I currently work in Dr. James Caverlee's lab on a variety of data mining and information retrieval research topics.
 
-📫: larenspear@tamu.edu
-😄 Pronouns: he/him
-💬 Ask me about: BM25
-⚡ Fun fact: I used to be a DJ when I lived in Austin. 
+- 📫: larenspear@tamu.edu
+- 😄 Pronouns: he/him
+- 💬 Ask me about: BM25
+- ⚡ Fun fact: I used to be a DJ when I lived in Austin. 
 
 <!--
 **larenspear/larenspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
