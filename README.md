@@ -6,7 +6,7 @@ I'm Laren, a third year Master's student in Computer Science at Texas A&M. I gra
 - 🌱 I’m currently learning: the math required to do Project Euler
 - 😄 Pronouns: he/him
 - 💬 Ask me about: BM25
-- ⚡ Fun fact: I used to be a DJ when I lived in Austin. 
+- ⚡ Fun fact: I used to be a DJ when I lived in Austin. (and many more fun facts where that came from)
 
 <!--
 **larenspear/larenspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
