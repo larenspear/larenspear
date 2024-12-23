@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm Laren, a third year Master's student in Computer Science at Texas A&M. I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate. I love coffee, trivia, and electronic music. I mostly use Python, but I've used all sorts of languages at one point or another through the random computing courses I've taken. I currently work in Dr. James Caverlee's lab on a variety of data mining and information retrieval research topics.
 
-- 📫: larenspear@tamu.edu
-- 🌱 I’m currently learning: the math required to do Project Euler
+I'm Laren, a software engineer at Pacific Northwest National Lab, working in the Research Computing directorate on the AI/ML Solutions team. I graduated from Texas A&M in 2024, earning a MS in computer science under Dr. James Caverlee. My thesis was entitled "Compressing Ethical AI: Quantization Effects Of Large Language Models For Ethical Question Answering." Prior to that, I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate.
+
+- 📫: larenspear@gmail.com
+- 🌱 I’m currently learning: CI/CD
 - 😄 Pronouns: he/him
 - 💬 Ask me about: BM25
-- ⚡ Fun fact: I used to be a DJ when I lived in Austin. (and many more fun facts where that came from)
-
+- ⚡ Fun fact: I DJ and collect vinyl records.
+- 
 <!--
 **larenspear/larenspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
