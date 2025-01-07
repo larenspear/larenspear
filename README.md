@@ -8,7 +8,6 @@ I'm Laren, a software engineer at Pacific Northwest National Lab, working in the
 - 😄 Pronouns: he/him
 - 💬 Ask me about: BM25
 - ⚡ Fun fact: I DJ and collect vinyl records.
-- 
 <!--
 **larenspear/larenspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
