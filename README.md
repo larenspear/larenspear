@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I'm Laren, a software engineer at Pacific Northwest National Lab, working in the Research Computing directorate on the AI/ML Solutions team. I graduated from Texas A&M in 2024, earning a MS in computer science under Dr. James Caverlee. My thesis was entitled "Compressing Ethical AI: Quantization Effects Of Large Language Models For Ethical Question Answering." Prior to that, I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate.
+I'm Laren, a software engineer at Pacific Northwest National Lab, working in the Research Computing directorate on the AI/ML Solutions team. I graduated from Texas A&M in 2024, earning a MS in computer science under Dr. James Caverlee. Prior to that, I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate.
 
 - 📫: larenspear@gmail.com
-- 🌱 I’m currently learning: CI/CD
+- 🌱 I’m currently learning: Numerical Weather Prediction
 - 😄 Pronouns: he/him
 - 💬 Ask me about: BM25
 - ⚡ Fun fact: I DJ and collect vinyl records.
