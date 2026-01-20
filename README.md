@@ -3,8 +3,17 @@
 
 I'm Laren, a software engineer at Pacific Northwest National Lab, working in the Research Computing directorate on the AI/ML Solutions team. I graduated from Texas A&M in 2024, earning a MS in computer science under Dr. James Caverlee. Prior to that, I graduated from the University of Texas at Austin in 2021, majoring in Chemistry with the Elements of Computing certificate.
 
+I do many things, but here are the primary areas I work on:
+- Scientific software packaging, build systems, and containerization
+- HPC system administration
+- MLOps
+- LLM scaling
+- Information retrieval
+
+Fun Stuff:
+
 - 📫: larenspear@gmail.com
-- 🌱 I’m currently learning: Numerical Weather Prediction
+- 🌱 I’m currently learning: CUDA
 - 😄 Pronouns: he/him
 - 💬 Ask me about: BM25
 - ⚡ Fun fact: I DJ and collect vinyl records.
